@@ -1,0 +1,7 @@
+sample	condition	fastq_1	fastq_2
+control1	control	/home/tnguyen25/Documents/Projects/RNAseq/data/control1_1.fastq.gz	/home/tnguyen25/Documents/Projects/RNAseq/data/control1_2.fastq.gz
+control2	control	/home/tnguyen25/Documents/Projects/RNAseq/data/control2_1.fastq.gz	/home/tnguyen25/Documents/Projects/RNAseq/data/control2_2.fastq.gz
+control3	control	/home/tnguyen25/Documents/Projects/RNAseq/data/control3_1.fastq.gz	/home/tnguyen25/Documents/Projects/RNAseq/data/control3_2.fastq.gz
+NORADkd1	treated	/home/tnguyen25/Documents/Projects/RNAseq/data/NORADkd1_1.fastq.gz	/home/tnguyen25/Documents/Projects/RNAseq/data/NORADkd1_2.fastq.gz
+NORADkd2	treated	/home/tnguyen25/Documents/Projects/RNAseq/data/NORADkd2_1.fastq.gz	/home/tnguyen25/Documents/Projects/RNAseq/data/NORADkd2_2.fastq.gz
+NORADkd3	treated	/home/tnguyen25/Documents/Projects/RNAseq/data/NORADkd3_1.fastq.gz	/home/tnguyen25/Documents/Projects/RNAseq/data/NORADkd3_2.fastq.gz
