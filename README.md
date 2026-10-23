@@ -1,5 +1,5 @@
 # Bulk-RNA-sequencing
-Reproducible bulk RNA-seq analysis pipeline from raw FASTQ reads to differential expression and visualization using FastQC, kallisto, tximport, DESeq2, PCA, heatmaps, and volcano plots.
+Reproducible bulk RNA-seq analysis pipeline from raw FASTQ reads to differential expression and visualization using FastQC, fastqc, STAR, DESeq2, PCA, GSEA, and volcano plots.
 # Paired-end RNA-seq pipeline
 
 This template runs **FastQC → STAR alignment and gene counts → pause to check strandedness → DESeq2 → fgsea**. It expects gzipped paired-end reads, a prebuilt STAR genome index made with the matching GTF, and a gene-symbol GMT gene-set file. It does not download references or install software.
